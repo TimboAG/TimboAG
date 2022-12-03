@@ -27,11 +27,7 @@
 
 ![ejemplo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![ejemplo](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![ejemplo](https://img.shields.io/badge/SQLServer-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![ejemplo](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![ejemplo](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
