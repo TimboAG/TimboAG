@@ -28,17 +28,7 @@
 
 
 
-![ejemplo](https://aleen42.github.io/badges/src/photoshop.svg)
-
-![ejemplo](https://aleen42.github.io/badges/src/illustrator.svg)
-
-![ejemplo](https://aleen42.github.io/badges/src/premiere.svg)
-
-![ejemplo](https://aleen42.github.io/badges/src/after_effects.svg)
-
-
-
-
+![ejemplo](https://aleen42.github.io/badges/src/photoshop.svg)  ![ejemplo](https://aleen42.github.io/badges/src/illustrator.svg)  ![ejemplo](https://aleen42.github.io/badges/src/premiere.svg)  ![ejemplo](https://aleen42.github.io/badges/src/after_effects.svg)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
