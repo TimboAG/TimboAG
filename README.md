@@ -12,7 +12,7 @@
 - 💬 Podes comunicarte conmigo en los siguientes enlaces: 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandra-agustina-guerin/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dacelis0@misena.edu.co)](mailto:timbocomunicacion@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dacelis0@misena.edu.co)](mailto:guerinalejandraagustina@gmail.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
